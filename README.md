@@ -13,7 +13,7 @@ curl -fsSL https://diacrit.com/install.sh | bash
 This installs:
 
 1. **Claude Code plugin** — adds `/diacrit:connect` and `/diacrit:discuss` commands (macOS + Linux)
-2. **Waiting** — menu bar app showing queued link counts per device (macOS only, skipped on Linux)
+2. **Diacrit menu bar app** — menu bar app showing queued link counts per device (macOS only, skipped on Linux)
 
 Then pairs your phone with a one-time code. No email, no password.
 
@@ -32,7 +32,7 @@ Then pairs your phone with a one-time code. No email, no password.
 | [Claude Code plugin](https://github.com/diacrit/claude) | `/diacrit:connect` and `/diacrit:discuss` commands |
 | iOS app | Share Extension + pairing |
 | Android app | Share Intent + pairing |
-| Waiting | macOS menu bar app ([releases](https://github.com/diacrit/diacrit/releases)) |
+| Diacrit menu bar app | macOS menu bar app ([releases](https://github.com/diacrit/diacrit/releases)) |
 
 ## Links
 
