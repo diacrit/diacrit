@@ -12,8 +12,8 @@ curl -fsSL https://diacrit.com/install.sh | bash
 
 This installs:
 
-1. **Waiting** — a macOS menu bar app that shows how many links are queued from each paired device
-2. **Claude Code plugin** — adds `/diacrit:connect` and `/diacrit:discuss` commands
+1. **Claude Code plugin** — adds `/diacrit:connect` and `/diacrit:discuss` commands (macOS + Linux)
+2. **Waiting** — menu bar app showing queued link counts per device (macOS only, skipped on Linux)
 
 Then pairs your phone with a one-time code. No email, no password.
 
